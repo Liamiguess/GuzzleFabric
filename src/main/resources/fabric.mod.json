@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.kilowatts.guzzle.guzzle"
+      "net.kilowatts.guzzle.Guzzle"
     ]
   },
   "mixins": [
