@@ -1,9 +1,11 @@
-# Fabric Example Mod
+# Guzzle
 
-## Setup
+## About
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Guzzle is a small food mod for Minecraft focused around creating new and unique foods with their own perks. Some examples are:
+- Pies that can be eaten slice-by-slice
+- Popcorn that can be eaten very fast
+- Chili peppers that are very spicy
+- Hot sauce and splash hot sauce (Light your enemies on fire!)
+- And more to come.
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
